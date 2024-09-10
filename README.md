@@ -1,5 +1,5 @@
 # bharathos
-Bharat Operating System
+Bharath Operating System
 
 Overview: BharathOS is an open-source operating system tailored to meet the unique needs of 140 crore Indians. It is built with a focus on accessibility, security, and scalability to empower the nation’s digital ecosystem. Designed to be lightweight yet powerful, BharathOS ensures that every Indian has access to a seamless, fast, and secure computing experience.
 
